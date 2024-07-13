@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+
+div{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+    padding: 1px;
+}
+img{
+    
+    border: 5px solid white;
+}
+
+#quote{
+    color: white;
+    font-size: xx-large;
+    font-family: Baskerville ;
+}
+
+h2{
+    color: white;
+    
+}
+
